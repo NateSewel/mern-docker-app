@@ -531,9 +531,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![Docker Containers](./screenshots/docker-containers.png)
 
-### MongoDB Data
+### Create User Data
 
-![MongoDB Data](./screenshots/mongodb-data.png)
+![User Data](./screenshots/user-data.png)
 
 ---
 
