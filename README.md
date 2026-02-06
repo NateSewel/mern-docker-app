@@ -121,7 +121,7 @@ This is the easiest and recommended method to run the application.
 #### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/NateSewel/mern-docker-app>
 cd mern-docker-app
 ```
 
